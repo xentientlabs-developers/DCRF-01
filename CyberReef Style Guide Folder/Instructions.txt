@@ -1,0 +1,113 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: CyberReef Style Guide.indd
+
+PACKAGE DATE: 01/26/17 11:28 PM
+Creation Date: 01/26/17
+Modification Date: 01/26/17
+
+CONTACT INFORMATION
+
+Company Name: XentientLABS LLC.
+Contact: Taylor Jenkins | Cesar Marrero
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+TEACUPPATTERNMAKERMODEL.PLN
+
+
+Non Opaque Objects :On Page1, 3, 5, 6, 16, 17, 18, A
+
+FONTS
+15 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 5 Protected
+
+Fonts Not Packaged
+- Name: Lato-Black; Type: OpenType TrueType, Status: Synced
+- Name: Lato-Bold; Type: OpenType TrueType, Status: Synced
+- Name: Lato-Italic; Type: OpenType TrueType, Status: Synced
+- Name: Lato-Light; Type: OpenType TrueType, Status: Synced
+- Name: Lato-Regular; Type: OpenType TrueType, Status: Synced
+Fonts Packaged
+- Name: OpenSans; Type: OpenType TrueType, Status: OK
+- Name: OpenSans-Bold; Type: OpenType TrueType, Status: OK
+- Name: OpenSans-Italic; Type: OpenType TrueType, Status: OK
+- Name: OpenSans-Light; Type: OpenType TrueType, Status: OK
+- Name: OpenSansLight-Italic; Type: OpenType TrueType, Status: OK
+- Name: Raleway-Black; Type: OpenType TrueType, Status: OK
+- Name: Raleway-Bold; Type: OpenType TrueType, Status: OK
+- Name: Raleway-Italic; Type: OpenType TrueType, Status: OK
+- Name: Raleway-Light; Type: OpenType TrueType, Status: OK
+- Name: Raleway-Regular; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 71.565; Lines/Inch: 63.245
+- Name and Type: Process Magenta; Angle: 18.434; Lines/Inch: 63.245
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 66.666
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.710
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 29 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 15 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Adobe PDF 9.0, (Adobe PDF)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 49p7.22 x 70p2
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. CyberReef Style Guide.indd; type: Adobe InDesign publication; size: 4032K
+2. CyberReef Style Guide.idml; type: InDesign Markup Document; size: 332K
+3. CyberReef Style Guide.pdf; type: Adobe Acrobat Document; size: 2337K
+4. OpenSans-Regular.ttf; type: Font file; size: 212K
+5. OpenSans-Bold.ttf; type: Font file; size: 219K
+6. OpenSans-Italic.ttf; type: Font file; size: 207K
+7. OpenSans-Light.ttf; type: Font file; size: 217K
+8. OpenSans-LightItalic.ttf; type: Font file; size: 208K
+9. Raleway-Black.ttf; type: Font file; size: 176K
+10. Raleway-Bold.ttf; type: Font file; size: 175K
+11. Raleway-Italic.ttf; type: Font file; size: 142K
+12. Raleway-Light.ttf; type: Font file; size: 178K
+13. Raleway-Regular.ttf; type: Font file; size: 174K
